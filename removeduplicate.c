@@ -51,8 +51,5 @@ int main(void)
     }
     printf("%d]\n\n\n", a[k]);
 
-    free(a);
-    a = 0;
-    
     return 0;
 }
